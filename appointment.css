@@ -1,0 +1,21 @@
+.home{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+    background:url(images/appointment.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.home .content{
+  text-align: center;
+}
+
+.home .content h3 {
+    font-size: 6rem;
+    text-transform: uppercase;
+    font-weight: normal;
+    color:#6b6767;
+    padding-bottom: 3.5rem;
+}
